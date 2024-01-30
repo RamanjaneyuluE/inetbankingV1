@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SAMFM WEB(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.inetbanking.testCases.DataManagement.Site">
+        <methods>
+          <include name="loginTest"/>
+          <include name="siteCreation"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.DataManagement.Site -->
+    </classes>
+  </test> <!-- SAMFM WEB(failed) -->
+</suite> <!-- Failed suite [Suite] -->

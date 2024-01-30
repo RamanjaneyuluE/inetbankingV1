@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-13T02:16:03Z" name="InetBankingV1" finished-at="2023-08-13T02:16:13Z" duration-ms="10244">
+  <suite started-at="2023-08-14T01:29:30Z" name="InetBankingV1" finished-at="2023-08-14T01:29:41Z" duration-ms="11260">
     <groups>
     </groups>
-    <test started-at="2023-08-13T02:16:03Z" name="Banking App Test" finished-at="2023-08-13T02:16:13Z" duration-ms="10244">
+    <test started-at="2023-08-14T01:29:30Z" name="Banking App Test" finished-at="2023-08-14T01:29:41Z" duration-ms="11260">
       <class name="com.inetbanking.testCases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6d026701]" started-at="2023-08-13T02:16:03Z" name="setup" finished-at="2023-08-13T02:16:07Z" duration-ms="4928" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6d026701]" started-at="2023-08-14T01:29:30Z" name="setup" finished-at="2023-08-14T01:29:36Z" duration-ms="6013" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6d026701]" started-at="2023-08-13T02:16:07Z" name="loginTest" finished-at="2023-08-13T02:16:13Z" duration-ms="5302" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6d026701]" started-at="2023-08-14T01:29:36Z" name="loginTest" finished-at="2023-08-14T01:29:41Z" duration-ms="5232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->

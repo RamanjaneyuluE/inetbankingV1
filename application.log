@@ -1,6 +1,2 @@
-2023-08-13 07:46:11,601  INFO [main] Ebanking:16 - URL is opened 
-2023-08-13 07:46:11,726  INFO [main] Ebanking:18 - Browser is maximized 
-2023-08-13 07:46:11,934  INFO [main] Ebanking:21 - User name is entered 
-2023-08-13 07:46:12,161  INFO [main] Ebanking:23 - Password is entered 
-2023-08-13 07:46:13,285  INFO [main] Ebanking:25 - Clicked on Accept button
-2023-08-13 07:46:13,296  INFO [main] Ebanking:30 - Login Test passed 
+2023-12-27 14:43:17,308  INFO [main] SamFM-Web Application:39 - URL is launched
+2023-12-27 14:43:19,930  INFO [main] SamFM-Web Application:41 - login is successful
